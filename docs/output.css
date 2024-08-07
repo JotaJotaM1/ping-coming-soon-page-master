@@ -748,16 +748,6 @@ video {
   font-style: italic;
 }
 
-.text-LightRed {
-  --tw-text-opacity: 1;
-  color: hsl(354 100% 66% / var(--tw-text-opacity));
-}
-
-.text-lime-600 {
-  --tw-text-opacity: 1;
-  color: rgb(101 163 13 / var(--tw-text-opacity));
-}
-
 .text-Blue {
   --tw-text-opacity: 1;
   color: hsl(223 87% 63% / var(--tw-text-opacity));
@@ -768,6 +758,11 @@ video {
   color: hsl(0 0% 59% / var(--tw-text-opacity));
 }
 
+.text-LightRed {
+  --tw-text-opacity: 1;
+  color: hsl(354 100% 66% / var(--tw-text-opacity));
+}
+
 .text-VeryDarkBlue {
   --tw-text-opacity: 1;
   color: hsl(209 33% 12% / var(--tw-text-opacity));
@@ -776,6 +771,11 @@ video {
 .text-\[\#0a58ca\] {
   --tw-text-opacity: 1;
   color: rgb(10 88 202 / var(--tw-text-opacity));
+}
+
+.text-lime-600 {
+  --tw-text-opacity: 1;
+  color: rgb(101 163 13 / var(--tw-text-opacity));
 }
 
 .text-white {
